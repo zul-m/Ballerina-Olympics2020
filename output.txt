@@ -1,0 +1,50 @@
+>>> bal run .\main.bal 
+Compiling source
+        main.bal
+
+Running executable
+
+Top 10 winners: 
+        United States of America  
+        People's Republic of China
+        Japan
+        Great Britain
+        ROC
+        Australia
+        Netherlands
+        France
+        Germany
+        Italy
+Top 10 countries by number of Athletes: 
+        United States of America  
+        Japan
+        Australia
+        People's Republic of China
+        Germany
+        France
+        Canada
+        Great Britain
+        Italy
+        Spain
+Top 10 countries with gold medals/athletes ratio
+        Bermuda 50.0%
+        Kosovo  20.0%
+        Qatar   14.0%
+        Bahamas 12.0%
+        Cuba    10.0%
+        People's Republic of China      9.0%
+        Uganda  8.0%
+        Bulgaria        7.0%
+        Jamaica 7.0%
+        United States of America        6.0%
+Top 10 countries with any medals/athletes ratio
+        San Marino      75.0%
+        Bermuda 50.0%
+        Armenia 25.0%
+        Georgia 23.0%
+        ROC     22.0%
+        Philippines     22.0%
+        People's Republic of China      22.0%
+        Cuba    22.0%
+        Qatar   21.0%
+        Kosovo  20.0%
